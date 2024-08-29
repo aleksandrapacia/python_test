@@ -1,5 +1,5 @@
 # python_test
-### test code using unittest
+### test code using unittest (assertion)
 #### assertEqual(a,b) -> checks if a==b
 #### assertNotEqual(a,b) -> checks if a != b
 #### assertTrue(x) -> checks if x == True
